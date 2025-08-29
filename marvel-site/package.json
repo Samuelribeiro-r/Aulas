@@ -1,0 +1,22 @@
+{
+  "name": "marvel-site",
+  "version": "1.0.0",
+  "description": "A site illustrating the Marvel universe with hero information and interactive features.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Marvel",
+    "Heroes",
+    "JavaScript",
+    "Web Development"
+  ]
+}
